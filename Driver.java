@@ -1,5 +1,10 @@
 import java.util.*;
 
+/*
+This is the classic Battleship game. You need two people to play.
+@author John Calderaio
+*/
+
 class Driver {
 	
 	public static void main(String args[]) {
